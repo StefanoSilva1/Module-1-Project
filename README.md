@@ -1,2 +1,2 @@
-# Module-1-Project
+# Module 1 Project IronHack
 Cross The Road Game
